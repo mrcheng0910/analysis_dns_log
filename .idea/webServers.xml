@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0aff987b-20aa-4b76-b4f5-39fd6306a12b" name="172.29.152.152" url="http://172.29.152.152">
+        <fileTransfer host="172.29.152.152" port="22" rootFolder="/home/nslabdns" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
