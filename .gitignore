@@ -1,10 +1,10 @@
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
-
+txt.csv
 # Folder config file
 Desktop.ini
-
+txt.csv
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
