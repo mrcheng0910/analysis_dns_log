@@ -18,3 +18,4 @@ from pandas import Series,DataFrame
 # print d
 print "nihao"
 print "爱国"
+print "你好"

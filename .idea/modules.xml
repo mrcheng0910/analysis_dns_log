@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/analysis_dns_log.iml" filepath="$PROJECT_DIR$/.idea/analysis_dns_log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../open_dns_scan/.idea/open_dns_scan.iml" filepath="$PROJECT_DIR$/../open_dns_scan/.idea/open_dns_scan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../whois_server_analysis/.idea/whois_server_analysis.iml" filepath="$PROJECT_DIR$/../whois_server_analysis/.idea/whois_server_analysis.iml" />
     </modules>
   </component>
 </project>

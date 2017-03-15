@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../domain_geo_location" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../flask_learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../flask_learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../nationwide_domain_distribution" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../open_dns_scan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../verify_email" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../warning_systemm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../whois_server_analysis" vcs="Git" />
   </component>
 </project>
